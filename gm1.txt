@@ -1,0 +1,2 @@
+Item_1, Item_2 / Backlog 할당
+Item_3, Item_4 / Ready 할당 
